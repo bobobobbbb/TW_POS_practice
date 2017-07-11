@@ -17,3 +17,6 @@ class Promotion {
     ];
   }
 }
+
+module.exports.Promotion = Promotion
+
